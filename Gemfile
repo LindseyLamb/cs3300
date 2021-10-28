@@ -67,6 +67,7 @@ gem 'mini_racer'
   
 group :development, :test do
   gem 'rspec-rails', '~> 3.7'
+  gem 'simplecov', require: false
 end
  #group :development, :test do
   #gem 'capybara'
